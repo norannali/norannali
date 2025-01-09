@@ -17,7 +17,7 @@ I’m a **Data Science enthusiast** with a strong passion for **Machine Learning
 Feel free to reach out to me through:
 
 - 📧 **Email**: [norannali322@gmail.com](mailto:norannali322@gmail.com)
-- 🌐 **LinkedIn**: [linkedin.com/in/norannali](https://www.linkedin.com/in/norannali/)
+- 🌐 **LinkedIn**: [linkedin.com/in/norannali](https://www.linkedin.com/in/noran-ali-666434270/)
 
 I am always excited to connect with other like-minded individuals, share knowledge, and grow in the field of Data Science. If you have any interesting projects or ideas, feel free to reach out!
 
