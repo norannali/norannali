@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left"><br>✨Creating bugs since 2023 and learning how to fix them since 2024 😅<br>📚 I'm currently learning Machine Learning, Deep Learning, and Natural Language Processing.<br>💻I enjoy working on AI projects like chatbots, image captioning, and data-driven predictions.<br>🎯 Goals:<br>- Build real-world AI & Data Science projects<br>- Start freelancing using my ML skills<br>- Contribute to open-source projects<br>- Land an internship or research opportunity in AI 💼<br>🎲 Fun fact:<br>I sometimes train models just to see how bad they can perform — then make them better! 🤓🔥<br>⚡ In my free time I explore new AI projects, practice coding challenges, and learn from Kaggle notebooks.</p>
+<p align="left">✨Creating bugs since 2023 and learning how to fix them since 2024 😅<br>📚 I'm currently learning Machine Learning, Deep Learning, and Natural Language Processing.<br>💻I enjoy working on AI projects like chatbots, image captioning, and data-driven predictions.<br>🎯 Goals:<br>- Build real-world AI & Data Science projects<br>- Start freelancing using my ML skills<br>- Contribute to open-source projects<br>- Land an internship or research opportunity in AI 💼<br>🎲 Fun fact:<br>I sometimes train models just to see how bad they can perform — then make them better! 🤓🔥<br>⚡ In my free time I explore new AI projects, practice coding challenges, and learn from Kaggle notebooks.</p>
 
 ###
 
