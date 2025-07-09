@@ -1,26 +1,41 @@
-# 👋 Hi, I’m **@norannali**
+<h1 align="left">Hey 👋 What's up?</h1>
 
-I’m a **Data Science enthusiast** with a strong passion for **Machine Learning** and its potential to drive innovation. Currently, I am focused on learning and applying various **machine learning techniques** to real-world problems.
+###
 
-## 🌱 What I’m Learning:
-- **Machine Learning**: Building and training models for predictive analysis.
-- **Deep Learning**: Exploring neural networks and frameworks like TensorFlow and PyTorch.
-- **Data Analysis**: Leveraging data manipulation and visualization tools like **pandas**, **Matplotlib**, and **Seaborn** to extract insights from data.
+<p align="left">My name is Noran Ali, a student specializing in Data Science and Artificial Intelligence from Egypt</p>
 
-## 📚 Current Projects:
-- **Stock Price Prediction**: Using LSTM for predicting future stock prices.
-- **Breast Cancer Prediction**: Working on machine learning models to predict whether tumors are malignant or benign.
-- **Sales Forecasting**: Implementing time series analysis to predict retail sales.
+###
 
-## 🌍 Get in Touch:
+<h2 align="left">About me</h2>
 
-Feel free to reach out to me through:
+###
 
-- 📧 **Email**: [norannali322@gmail.com](mailto:norannali322@gmail.com)
-- 🌐 **LinkedIn**: [linkedin.com/in/norannali](https://www.linkedin.com/in/noran-ali-666434270/)
+<p align="left">✨ Creating bugs since 2023 and learning how to fix them since 2024 😅<br>📚 I'm currently learning Machine Learning, Deep Learning, and Natural Language Processing.<br>💻I enjoy working on AI projects like chatbots, image captioning, and data-driven predictions.<br>🎯 Goals: <br>- Build real-world AI & Data Science projects  <br>- Start freelancing using my ML skills  <br>- Contribute to open-source projects  <br>- Land an internship or research opportunity in AI 💼<br>🎲 Fun fact: <br>I sometimes train models just to see how bad they can perform — then make them better! 🤓🔥</p>
 
-I am always excited to connect with other like-minded individuals, share knowledge, and grow in the field of Data Science. If you have any interesting projects or ideas, feel free to reach out!
+###
 
----
+<h2 align="left">I code with</h2>
 
-Let's collaborate and grow together in the world of Data Science! 🚀
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+</div>
+
+###
