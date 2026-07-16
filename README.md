@@ -1,9 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Noran%20Ali&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20LLMs%20%7C%20RAG%20%7C%20Machine%20Learning&descSize=18&descAlignY=55&textBg=false"/>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer;Building+LLM+Applications;RAG+%7C+Agentic+AI+%7C+Machine+Learning;Python+%7C+FastAPI+%7C+LangChain"/>
-</p>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Noran%20Ali&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20|%20LLMs%20|%20RAG%20|%20Machine%20Learning&descSize=18&descAlignY=55"/>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/noran-ali-aiengineer/">
@@ -19,79 +14,135 @@
 </a>
 </p>
 
-# Noran Ali
+# Hi, I'm Noran 👋
 
-**AI Engineer | LLMs · RAG · NLP · Applied Machine Learning**
+AI Engineer specializing in **LLMs, Retrieval-Augmented Generation (RAG), NLP, and Applied Machine Learning**.
 
-Cairo, Egypt 
-
-I build production-oriented AI systems — retrieval pipelines, evaluation frameworks, and multimodal applications — with a focus on making them measurably better, not just functional. Currently looking for Junior AI Engineer / NLP Engineer / GenAI Engineer roles.
+I build production-oriented AI systems focused on retrieval quality, LLM evaluation, and multimodal intelligence. I'm currently seeking **Junior AI Engineer**, **NLP Engineer**, or **Generative AI Engineer** opportunities.
 
 ---
 
-## Featured Projects
+# 🏆 Achievements
 
-### 🔍 Hybrid RAG Pipeline — Smart Contract AI Assistant
-*Production-grade retrieval-augmented generation system, deployed as an API*
-
-- Hybrid retrieval combining **FAISS (dense)** and **BM25 (sparse)**, fused with **Reciprocal Rank Fusion (RRF)**
-- **CrossEncoder reranking** to reorder retrieved chunks by true relevance before generation
-- Evaluation via **LLM-as-Judge**, used to benchmark retrieval/generation quality and catch regressions
-- Deployed as a service with **FastAPI + LangServe**
-- Fixed a confidence-score normalization bug (sigmoid-based scoring replacing a clamp-based approach) that was distorting reported answer confidence
-
-**Stack:** Python, FAISS, BM25, LangChain, FastAPI, LangServe
-🔗 [Repo](#) *(https://github.com/norannali/Smart-Contract-Assistant)* · 
+- 🥈 2nd Place — National AI Competition
+- 🥉 3rd Place — National AI Innovation Competition
+- 🎓 Graduation Project: **A+**
+- ⭐ Top Performance Student — Digital Egypt Pioneers Initiative (DEPI)
 
 ---
 
-### 🧠 Kawkabi — AI-Powered Mobile Intervention for Children with ADHD
-*Graduation Project — A+, 🥈 2nd Place National AI Competition, 🥉 3rd Place National AI Innovation Competition*
+# 🎓 Education
 
-An AI-driven mobile platform structured across three intervention domains — **Movement, Focus, and Organization** — using games and a conversational AI companion to support attention-related challenges in children.
+**Bachelor of Science in Artificial Intelligence**
 
-- Built interactive games mapped to specific cognitive/behavioral targets: *Move Like Me, Robot Delivery, Number Catcher, Focus Quest, Shape Match, Follow the Spark, Meteor Dodge, Task Builder*
-- Designed **Najma**, a conversational AI chatbot guiding children through sessions
-- Built **Functional Behavioral Validation (FBV)** — an academically defensible evaluation framework using real biometric eye-tracking data, mapping raw code metrics to academic constructs (e.g. `engagement_score` → Mean Engagement Index)
-- Integrated Computer Vision (pose estimation, eye tracking), Speech AI (Whisper-v3 STT + Edge-TTS), and LLM reasoning (Gemini + LangChain) into one real-time pipeline
-- Optimized models for mobile deployment
+Faculty of Computers and Artificial Intelligence
 
-**Stack:** Python, Gemini, LangChain, Whisper-v3, Edge-TTS, Computer Vision (eye tracking, pose estimation)
+Benha University
 
----
+2022 – 2026
 
-### 📊 Agentic Business Analytics Platform
-*Multi-agent system turning raw business data into automated insights*
-
-- Designed the AI agent layer responsible for analysis and automated KPI generation
-- Backend built on Java Spring Boot + PostgreSQL, with an AI/analytics layer in Python/FastAPI
-- LLM-powered natural language querying over structured business data
-
-**Stack:** FastAPI, LLM Agents, Java Spring Boot, PostgreSQL
-🔗 [Repo](#) *(https://github.com/norannali/agentic-business-analytics-platform)*
+**GPA:** 3.60 / 4.00
 
 ---
 
-## Skills
+# 💼 Experience
 
-**LLM & NLP:** RAG (hybrid retrieval, reranking, RRF), LangChain, prompt engineering, LLM-as-Judge evaluation, transformer-based models, coreference resolution, information retrieval
-**ML / MLOps:** PyTorch, TensorFlow, scikit-learn, MLflow, Apache Airflow
-**Backend / Deployment:** FastAPI, LangServe, Docker, Git, PostgreSQL
-**Vector Search:** FAISS, Milvus, BM25
+- **AI Trainee — Fawry**
+- **Generative AI Developer Trainee — Namasoft**
+- **AI Trainee — National Telecommunication Institute (NTI)**
+- **Digital Egypt Pioneers Initiative (DEPI)**
 
 ---
-## 🎓 Education
 
-- **B.Sc. in Artificial Intelligence**
-- Faculty of Computers and Artificial Intelligence, Benha University
-- Internship experience at Fawry, Namasoft, NTI, and the DEPI Program.
-- **GPA:** 3.60 / 4.00
-- 2022 – 2026
+# 🛠 Technical Skills
+
+### Languages
+
+Python • Java • SQL
+
+### LLM & NLP
+
+- Retrieval-Augmented Generation (RAG)
+- Hybrid Retrieval
+- Reciprocal Rank Fusion (RRF)
+- CrossEncoder Reranking
+- LangChain
+- Prompt Engineering
+- LLM Evaluation
+- Information Retrieval
+- Transformers
+
+### Machine Learning
+
+PyTorch • TensorFlow • Scikit-learn • MLflow • Apache Airflow
+
+### Backend
+
+FastAPI • LangServe • Docker • Git
+
+### Databases & Vector Search
+
+PostgreSQL • FAISS • Milvus • BM25
+
 ---
 
-## Let's Connect
+# 🚀 Featured Projects
 
-Open to AI Engineering, NLP, and GenAI opportunities.
-[LinkedIn](https://www.linkedin.com/in/noran-ali-aiengineer/) · [Email](mailto:noranali322@gmail.com) · [GitHub](https://github.com/norannali)
+## 🔍 Hybrid RAG Pipeline — Smart Contract AI Assistant
 
+Production-grade Retrieval-Augmented Generation system built with hybrid retrieval, reranking, and LLM evaluation.
 
+**Highlights**
+
+- Hybrid Retrieval (FAISS + BM25 + RRF)
+- CrossEncoder Reranking
+- LLM-as-Judge Evaluation
+- FastAPI + LangServe deployment
+
+🔗 Repository
+
+https://github.com/norannali/Smart-Contract-Assistant
+
+---
+
+## 🧠 Kawkabi — AI Platform for Children with ADHD
+
+Award-winning graduation project integrating Computer Vision, Speech AI, and LLMs into a personalized intervention platform.
+
+**Highlights**
+
+- Eye Tracking & Pose Estimation
+- Gemini + LangChain
+- Whisper-v3 + Edge-TTS
+- Functional Behavioral Validation (FBV)
+
+---
+
+## 📊 Agentic Business Analytics Platform
+
+Multi-agent AI platform for automated KPI generation, business insights, and natural language analytics.
+
+**Highlights**
+
+- AI Agent Layer
+- LLM-powered Analytics
+- FastAPI + Spring Boot
+- PostgreSQL
+
+🔗 Repository
+
+https://github.com/norannali/agentic-business-analytics-platform
+
+---
+
+# 📫 Contact
+
+📧 noranali322@gmail.com
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/noran-ali-aiengineer/
+
+🐙 GitHub
+
+https://github.com/norannali
