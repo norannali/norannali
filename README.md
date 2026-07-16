@@ -41,7 +41,7 @@ I build production-oriented AI systems — retrieval pipelines, evaluation frame
 - Fixed a confidence-score normalization bug (sigmoid-based scoring replacing a clamp-based approach) that was distorting reported answer confidence
 
 **Stack:** Python, FAISS, BM25, LangChain, FastAPI, LangServe
-🔗 [Repo](#) *(add link)* · [Demo](#) *(add link if available)*
+🔗 [Repo](#) *(https://github.com/norannali/Smart-Contract-Assistant)* · 
 
 ---
 
@@ -57,7 +57,6 @@ An AI-driven mobile platform structured across three intervention domains — **
 - Optimized models for mobile deployment
 
 **Stack:** Python, Gemini, LangChain, Whisper-v3, Edge-TTS, Computer Vision (eye tracking, pose estimation)
-🔗 [Repo](#) *(add link)* · [Thesis / Demo video](#) *(add link if available)*
 
 ---
 
@@ -69,7 +68,7 @@ An AI-driven mobile platform structured across three intervention domains — **
 - LLM-powered natural language querying over structured business data
 
 **Stack:** FastAPI, LLM Agents, Java Spring Boot, PostgreSQL
-🔗 [Repo](#) *(add link)*
+🔗 [Repo](#) *(https://github.com/norannali/agentic-business-analytics-platform)*
 
 ---
 
