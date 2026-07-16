@@ -81,11 +81,13 @@ An AI-driven mobile platform structured across three intervention domains — **
 **Vector Search:** FAISS, Milvus, BM25
 
 ---
+## 🎓 Education
 
-## Background
-
-B.Sc. in Artificial Intelligence (2026) · Internship experience at Fawry, Namasoft, NTI, and the DEPI Program.
-
+- **B.Sc. in Artificial Intelligence**
+- Faculty of Computers and Artificial Intelligence, Benha University
+- Internship experience at Fawry, Namasoft, NTI, and the DEPI Program.
+- **GPA:** 3.60 / 4.00
+- 2022 – 2026
 ---
 
 ## Let's Connect
