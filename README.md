@@ -1,6 +1,6 @@
 # Hi, I'm Noran Ali 👋
 
-AI Engineer passionate about building intelligent systems with **LLMs, Retrieval-Augmented Generation (RAG), Machine Learning, and Backend Engineering**.
+AI Engineer passionate about building intelligent systems with **LLMs, Retrieval-Augmented Generation (RAG) and Machine Learning**.
 
 I enjoy turning AI ideas into real applications—from training models and building RAG pipelines to deploying APIs and creating end-to-end AI products.
 
@@ -12,7 +12,7 @@ I'm always looking for challenging problems where AI can make a real impact.
 
 - 🎓 B.Sc. in Artificial Intelligence
 - 🤖 Interested in LLMs, Agentic AI, RAG, NLP, and Machine Learning
-- 💻 Building AI applications using **Python** and **Java**
+- 💻 Building AI applications using **Python**
 - 📚 Always exploring new AI frameworks and production-ready architectures
 - 🌍 Based in Egypt
 - 🚀 Open to AI Engineering, Machine Learning, and Applied AI opportunities
@@ -37,8 +37,6 @@ I'm always looking for challenging problems where AI can make a real impact.
 
 ### Backend
 
-- Java
-- Spring Boot
 - FastAPI
 - REST APIs
 
@@ -96,20 +94,28 @@ A multi-agent AI platform that transforms raw business data into actionable insi
 - Agent workflows
 
 ---
+## Kawkabi – Multimodal AI Platform for ADHD Support
 
-## AI Parenting Assistant
+**Graduation Project (Grade: A+)**
 
-Graduation Project (A+)
+An AI-powered healthcare platform combining Computer Vision, Speech AI, and Large Language Models to support children with ADHD through intelligent interaction and behavioral analysis.
 
-An AI-powered platform supporting child development through intelligent screening, milestone tracking, and conversational assistance.
+### Highlights
 
-**Highlights**
+- Designed a multimodal AI pipeline integrating Computer Vision (Eye Tracking & Pose Estimation) with Gemini and LangChain for engagement analysis and conversational support.
+- Built a real-time voice-to-voice assistant using Whisper-v3 for Speech-to-Text and Edge-TTS for natural spoken interactions.
+- Developed FastAPI backend services for emotion analysis, session management, and AI model inference.
+- Optimized deep learning models for mobile deployment and integrated the complete AI pipeline from prompt engineering to production workflows.
 
-- Machine Learning
-- Deep Learning
-- NLP
-- Android
-- Healthcare AI
+### Tech Stack
+
+Python • FastAPI • Gemini • LangChain • Whisper-v3 • Edge-TTS • Computer Vision • Deep Learning • LLMs
+
+🏆 **Achievements**
+
+- Graduated with **A+**
+- Secured **2nd Place** in a national AI competition
+- Secured **3rd Place** in another national AI innovation competition
 
 ---
 
